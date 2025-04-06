@@ -17,6 +17,7 @@ public class GameLoop : MonoBehaviour
         this.gameObject.AddComponent<GameApp>().EnterGame();
         this.gameObject.name = "sddd";
         this.gameObject.name = "1";
+        this.gameObject.name = "2";
 
 
     }
