@@ -15,7 +15,9 @@ public class GameLoop : MonoBehaviour
         //end
         //游戏业务逻辑的初始化
         this.gameObject.AddComponent<GameApp>().EnterGame();
-
+        this.gameObject.name = "sddd";
+        this.gameObject.name = "1";
+        this.gameObject.name = "2";
 
 
     }
